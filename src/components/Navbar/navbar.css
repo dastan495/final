@@ -1,0 +1,30 @@
+.ab:hover {
+  color: black;
+}
+.shop_cart {
+  position: absolute;
+  top: 30px;
+  right: 0;
+  width: 450px;
+  min-height: 100px;
+  background: white;
+  z-index: 1000;
+}
+header {
+  position: relative;
+}
+.card_save:hover {
+  color: black;
+}
+.search:hover {
+  color: black;
+}
+.person:hover {
+  color: black;
+}
+.word:hover {
+  color: black;
+}
+.ab:hover {
+  color: black;
+}
